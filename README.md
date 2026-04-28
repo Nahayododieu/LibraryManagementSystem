@@ -7,3 +7,7 @@
 "- Issue and return books" 
 "- Return history tracking" 
 "- Database connectivity" 
+"## How to Run" 
+"1. Open in NetBeans" 
+"2. Configure database connection" 
+"3. Run the project" 
